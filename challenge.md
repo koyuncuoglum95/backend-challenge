@@ -34,10 +34,6 @@ python manage.py test tasks
 To obtain an authentication token, use the following endpoint:
 
 ```http
-POST /api-token-auth/
-
-or
-
 POST /api/token/
 
 
